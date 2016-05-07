@@ -17,16 +17,19 @@
     "bunyan"
   ],
   "dependencies": {
-    "bunyan": "^1.0.0",
-    "node-uuid": "^1.4.1",
-    "useragent": "^2.0.9"
+    "bunyan": "^1.8.1",
+    "jshint": "^2.9.2",
+    "mocha": "^2.4.5",
+    "node-uuid": "^1.4.7",
+    "through2": "^2.0.1",
+    "useragent": "^2.1.9"
   },
   "devDependencies": {
-    "express": "4.x",
-    "jshint": "~2.1.9",
-    "mocha": "~1.12.0",
-    "supertest": "*",
-    "through2": "^0.5.1"
+    "express": "^4.13.4",
+    "jshint": "^2.9.2",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0",
+    "through2": "^2.0.1"
   },
   "readmeFilename": "README.md",
   "author": {
